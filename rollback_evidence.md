@@ -13,3 +13,4 @@ After uploading the repository:
 4. Save the screenshot in the repository as `rollback_evidence.png`.
 
 The earlier commit provides a restorable working version and demonstrates rollback capability.
+Temporary test change for rollback demonstration.
